@@ -148,7 +148,7 @@ echo "<<<<<<<<<------------------Postgres version $POSTGRES_VERSION installed su
 #########################################Plugin installation
 echo "<<<<<<<<<------------------Downloading Plugin and setting it up - STEP 6/9 Started--------------------->>>>>>>>>"
 PLI=(
-        'git clone https://github.com/GoPlugin/Plugin.git'
+        'git clone https://github.com/go140point6/Plugin.git'
 )
 tryCatch ${PLI[@]}
 cd Plugin
