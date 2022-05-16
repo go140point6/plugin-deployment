@@ -1,9 +1,9 @@
 echo "<<<<<<<<<------------------STARTING PLUGIN NODE--------------------->>>>>>>>>"
 . ~/.profile
-echo "export ETH_CHAIN_ID=50
-export ETH_URL=wss://pluginws.blocksscan.io
+echo "export ETH_CHAIN_ID=51
+export ETH_URL=wss://ws.apothem.network
 export MIN_OUTGOING_CONFIRMATIONS=2
-export PLI_CONTRACT_ADDRESS=0xff7412ea7c8445c46a8254dfb557ac1e48094391
+export PLI_CONTRACT_ADDRESS=0x33f4212b027e22af7e6ba21fc572843c0d701cd1
 export PLUGIN_TLS_PORT=0
 export SECURE_COOKIES=false
 export ALLOW_ORIGINS=*
