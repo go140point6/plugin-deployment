@@ -397,7 +397,7 @@ FUNC_INITIATOR(){
         source ~/.profile
     
         cd /$PLI_DEPLOY_PATH
-        git clone https://github.com/GoPlugin/external-Initiator
+        git clone https://github.com/go140point6/external-Initiator
         cd $PLI_INITOR_DIR
         git checkout main
         go install
