@@ -1,7 +1,7 @@
 echo "<<<<<<<<<------------------STARTING PLUGIN NODE--------------------->>>>>>>>>"
 . ~/.profile
 echo "export ETH_CHAIN_ID=51
-export ETH_URL=wss://ws.apothem.network
+export ETH_URL=wss://ws.apothem.network/ws
 export MIN_OUTGOING_CONFIRMATIONS=2
 export PLI_CONTRACT_ADDRESS=0x33f4212b027e22af7e6ba21fc572843c0d701cd1
 export PLUGIN_TLS_PORT=0
