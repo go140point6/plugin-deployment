@@ -25,7 +25,7 @@
    i.  Now we clone down the install scripts repository
 
         cd $HOME
-        git clone https://github.com/GoPlugin/plugin-deployment.git
+        git clone https://github.com/go140point6/plugin-deployment.git
         cd plugin-deployment
         chmod +x *.sh
 
