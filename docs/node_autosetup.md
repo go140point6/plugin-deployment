@@ -26,8 +26,8 @@
 
         cd $HOME
         git clone https://github.com/go140point6/plugin-deployment.git
-        git checkout apothem
         cd plugin-deployment
+        git checkout apothem
         chmod +x *.sh
 
   
